@@ -1,0 +1,3 @@
+This is the remote file I added directly to the remote repo on GitHub.com, which I want to pull to my local repo.
+Remember, fetch brings it to my local repo, but not into my working directory...
+pull brings it both to my local repo AND my working directory, overwriting any similarly named files.
